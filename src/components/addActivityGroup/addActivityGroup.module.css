@@ -1,0 +1,26 @@
+#card {
+    width: 20%;
+    height: 8vh;
+    background-color: rgb(217, 217, 245);
+    margin-top: 3rem;
+    margin-left: 3.5rem;
+    display: flex;
+    border: 1px solid grey;
+    cursor: pointer;
+    margin-right: 2rem;
+}
+
+#card p {
+    color: blue;
+    margin-left: 1.5rem;
+    align-self: center;
+    margin-bottom: 0;
+    font-size: 1.2rem;
+}
+
+#addActivityGroup {
+    display: flex;
+    margin-top: 3rem;
+    margin-left: 3.5rem;
+    margin-right: 2rem;
+}    

@@ -1,0 +1,17 @@
+#container {
+    cursor: pointer;
+    min-height: 6vh;
+    width: 90%;
+    background-color: white;
+    display: flex;
+    margin-bottom: 1rem;
+    padding-left: 0.5rem;
+    position: relative;
+    display: flex;
+}
+
+#container p {
+    color: black;
+    margin-bottom: 0;
+    align-self: center;
+}

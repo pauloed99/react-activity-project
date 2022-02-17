@@ -1,0 +1,19 @@
+#container {
+    background-color: rgb(104, 104, 228);
+    height: 6vh;
+    display: flex;
+    align-items: center;
+    padding-left: 1rem;
+}
+
+#container input {
+    background-color: rgb(175, 175, 221);
+    outline: none;
+    border-radius: 0.3rem;
+}
+
+#bellIcon {
+    position: absolute;
+    right: 1rem;
+    cursor: pointer;
+}

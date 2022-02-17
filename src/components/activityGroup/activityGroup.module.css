@@ -1,0 +1,40 @@
+#container {
+    width: 20%;
+    background-color: blue;
+    min-height: 15vh;
+    margin-top: 3rem;
+    margin-left: 3rem;
+    border: 1px solid grey;
+    position: relative;
+}
+
+#container header {
+    background-color: blue;
+    color: white;
+    min-height: 8vh;
+    display: flex;
+    align-items: center;
+    padding-left: 1.5rem;
+}
+
+#container header p {
+    font-size: 1.4rem;
+    margin-bottom: 0;
+    cursor: pointer;
+}
+
+#container main {
+    padding-left: 0.8rem;
+    padding-top: 1rem;
+}
+
+#addCard {
+    font-size: 1.4rem;
+    color: blue;
+    cursor: pointer;
+}
+
+#container main {
+    background-color: rgb(217, 217, 245);
+    min-height: 7vh;
+}
